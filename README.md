@@ -1,28 +1,4 @@
 # cc3k_group_work
-
-|-----------------------------------------------------------------------------|
-
-|                                                                             |
-
-|                  Welcome to the game ChamberCrawler300!                     |
-
-|                                                                             |
-
-|  Please choose the version you want to play:                                |
-
-|      Enter 'n' to play the normal version.                                  |
-
-|      Enter 'd' to play the dlc version.                                     |
-
-|                                                                             |
-
-|  To quit, enter 'q'.                                                        |
-
-|                                                                             |
-
-|-----------------------------------------------------------------------------|
-
-
 |-----------------------------------------------------------------------------|
 
 | Please select the race for player character:                                |
